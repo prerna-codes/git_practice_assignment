@@ -21,7 +21,7 @@ Today CaratLane is India's largest omni-channel jeweller. CaratLane also has ove
 ### Tech Stack
 
 #### Frontend
-- HTML 5
+- HTML 5 https://camo.githubusercontent.com/c9302842c2b7620217a0def58a04e17f1e9639d30c8ba0a1bf3e0478ab257867/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f36342f3030303030302f68746d6c2d352e706e67
 - CSS 3
 - JavaScript
 
